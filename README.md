@@ -32,7 +32,7 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 | Challenge | Title        | Link      | Key Skill                                                           |
 | --------- | ------------ | --------- | ------------------------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. EC2 overview and use cases                                     |
+| 1         | ☁️ AWS Networking Lab – Create VPC, Subnets, Route Tables, Internet & NAT Gateways| 📂 [Repo](https://github.com/1suleyman/-AWS-Networking-Lab-Create-VPC-Subnets-Route-Tables-Internet-NAT-Gateways/tree/main) | designing and building AWS networking infrastructure by creating a custom VPC with subnets, route tables, Internet Gateway, and NAT Gateway to enable public and private subnet connectivity                                     |
 | 2         | Coming soon… | 📂 Folder | e.g. understanding VPC components (subnets, route tables, IGW, NAT) |
 | 3         | Coming soon… | 📂 Folder | e.g. configuring EC2 security groups                                |
 | 4         | Coming soon… | 📂 Folder | e.g. exploring NACLs for network layer security                     |
