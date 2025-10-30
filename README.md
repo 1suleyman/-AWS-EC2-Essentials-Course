@@ -33,10 +33,10 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 | Challenge | Title        | Link      | Key Skill                                                           |
 | --------- | ------------ | --------- | ------------------------------------------------------------------- |
 | 1         | ☁️ AWS Networking Lab – Create VPC, Subnets, Route Tables, Internet & NAT Gateways| 📂 [Repo](https://github.com/1suleyman/-AWS-Networking-Lab-Create-VPC-Subnets-Route-Tables-Internet-NAT-Gateways/tree/main) | designing and building AWS networking infrastructure by creating a custom VPC with subnets, route tables, Internet Gateway, and NAT Gateway to enable public and private subnet connectivity                                     |
-| 2         | Coming soon… | 📂 Folder | e.g. understanding VPC components (subnets, route tables, IGW, NAT) |
-| 3         | Coming soon… | 📂 Folder | e.g. configuring EC2 security groups                                |
-| 4         | Coming soon… | 📂 Folder | e.g. exploring NACLs for network layer security                     |
-| 5         | Coming soon… | 📂 Folder | e.g. creating a custom VPC with public/private subnets              |
+| 2         | 💻 AWS EC2 Lab – Create and Delete an EC2 Instance | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Create-and-Delete-an-EC2-Instance/tree/main) | launching, configuring, and terminating EC2 instances in the AWS Console with custom security groups, key pairs, networking setup, and lifecycle management |
+| 3         | Coming soon… | 📂 [Repo]() | e.g. configuring EC2 security groups                                |
+| 4         | Coming soon… | 📂 [Repo]() | e.g. exploring NACLs for network layer security                     |
+| 5         | Coming soon… | 📂 [Repo]() | e.g. creating a custom VPC with public/private subnets              |
 
 ---
 
@@ -44,10 +44,10 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 | Challenge | Title        | Link      | Key Skill                                                |
 | --------- | ------------ | --------- | -------------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. working with Amazon Machine Images (AMIs)           |
-| 2         | Coming soon… | 📂 Folder | e.g. choosing instance types and sizing correctly        |
-| 3         | Coming soon… | 📂 Folder | e.g. configuring EC2 storage (EBS, Instance Store)       |
-| 4         | Coming soon… | 📂 Folder | e.g. launching and terminating instances via AWS Console |
+| 1         | Coming soon… | 📂 [Repo]() | e.g. working with Amazon Machine Images (AMIs)           |
+| 2         | Coming soon… | 📂 [Repo]() | e.g. choosing instance types and sizing correctly        |
+| 3         | Coming soon… | 📂 [Repo]() | e.g. configuring EC2 storage (EBS, Instance Store)       |
+| 4         | Coming soon… | 📂 [Repo]() | e.g. launching and terminating instances via AWS Console |
 | 5         | Coming soon… | 📂 Folder | e.g. creating EC2 instances using AWS CLI                |
 | 6         | Coming soon… | 📂 Folder | e.g. exploring the EC2 instance lifecycle                |
 | 7         | Coming soon… | 📂 Folder | e.g. creating AMIs via AWS Console                       |
@@ -62,9 +62,9 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 | Challenge | Title        | Link      | Key Skill                                                               |
 | --------- | ------------ | --------- | ----------------------------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. attaching IAM roles to EC2 instances                               |
-| 2         | Coming soon… | 📂 Folder | e.g. accessing EC2 via CLI with IAM roles and access keys               |
-| 3         | Coming soon… | 📂 Folder | e.g. creating launch configurations and templates                       |
+| 1         | Coming soon… | 📂 [Repo]() | e.g. attaching IAM roles to EC2 instances                               |
+| 2         | Coming soon… | 📂 [Repo]() | e.g. accessing EC2 via CLI with IAM roles and access keys               |
+| 3         | Coming soon… | 📂 [Repo]() | e.g. creating launch configurations and templates                       |
 | 4         | Coming soon… | 📂 Folder | e.g. configuring EC2 Auto Scaling Groups (ASG)                          |
 | 5         | Coming soon… | 📂 Folder | e.g. setting up Load Balancers and Target Groups                        |
 | 6         | Coming soon… | 📂 Folder | e.g. monitoring EC2 using CloudWatch                                    |
@@ -77,9 +77,9 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 | Challenge | Title        | Link      | Key Skill                                                       |
 | --------- | ------------ | --------- | --------------------------------------------------------------- |
-| 1         | Coming soon… | 📂 Folder | e.g. designing a golden image pipeline                          |
-| 2         | Coming soon… | 📂 Folder | e.g. using AWS Image Builder for automated AMI creation         |
-| 3         | Coming soon… | 📂 Folder | e.g. immutable vs. non-immutable infrastructure                 |
+| 1         | Coming soon… | 📂 [Repo]() | e.g. designing a golden image pipeline                          |
+| 2         | Coming soon… | 📂 [Repo]() | e.g. using AWS Image Builder for automated AMI creation         |
+| 3         | Coming soon… | 📂 [Repo]() | e.g. immutable vs. non-immutable infrastructure                 |
 | 4         | Coming soon… | 📂 Folder | e.g. applying EC2 best practices (tagging, cost-saving, design) |
 | 5         | Coming soon… | 📂 Folder | e.g. managing disk partitions and EBS snapshots                 |
 | 6         | Coming soon… | 📂 Folder | e.g. recovering an EC2 instance after losing the `.pem` file    |
