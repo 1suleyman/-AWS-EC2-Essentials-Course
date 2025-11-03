@@ -36,7 +36,9 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 | 2         | 💻 AWS EC2 Lab – Create and Delete an EC2 Instance | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Create-and-Delete-an-EC2-Instance/tree/main) | launching, configuring, and terminating EC2 instances in the AWS Console with custom security groups, key pairs, networking setup, and lifecycle management |
 | 3         | 💻 AWS EC2 CLI Lab – Create and Delete an EC2 Instance Using the Command Line Interface (CLI) | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-CLI-Lab-Create-and-Delete-an-EC2-Instance-Using-the-Command-Line-Interface-CLI-/tree/main) | automating EC2 instance lifecycle using AWS CLI commands — including querying resources, launching instances with parameters, tagging, and terminating via command line |
 | 4         | 🧩 AWS EC2 AMI Lab – Create and Launch a Custom Amazon Machine Image | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-AMI-Lab-Create-and-Launch-a-Custom-Amazon-Machine-Image/tree/main) | creating reusable Amazon Machine Images (AMIs) to capture full EC2 configurations, replicate servers, and automate environment setup using golden images |
-| 5         | Coming soon… | 📂 [Repo]() | e.g. creating a custom VPC with public/private subnets              |
+| 5         | ⚙️ AWS EC2 User Data Lab – Automating Instance Setup with Startup Scripts | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-User-Data-Lab-Automating-Instance-Setup-with-Startup-Scripts/tree/main) | automating EC2 instance initialization using User Data scripts to install, configure, and launch services like NGINX on first boot without manual setup |
+| 6         | Coming soon… | 📂 [Repo]() |  |
+| 7         | Coming soon… | 📂 [Repo]() |  |
 
 ---
 
