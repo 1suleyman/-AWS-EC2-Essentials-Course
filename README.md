@@ -46,7 +46,7 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 | Challenge | Title        | Link      | Key Skill                                                |
 | --------- | ------------ | --------- | -------------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. working with Amazon Machine Images (AMIs)           |
+| 1         | 🤖 AWS Lab – EC2 + IAM Role via CLI (Keygen → Ubuntu → AWS CLI → S3 Update) | 📂 [Repo](https://github.com/1suleyman/-AWS-Lab-EC2-IAM-Role-via-CLI-Keygen-Ubuntu-AWS-CLI-S3-Update-/tree/main) | provisioning and managing EC2 instances entirely via CLI with IAM roles, IMDSv2 authentication, and automated S3 interactions using temporary credentials |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. choosing instance types and sizing correctly        |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. configuring EC2 storage (EBS, Instance Store)       |
 | 4         | Coming soon… | 📂 [Repo]() | e.g. launching and terminating instances via AWS Console |
