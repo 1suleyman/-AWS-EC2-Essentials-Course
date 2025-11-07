@@ -50,13 +50,7 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 | 2         | 🚀 AWS EC2 Lab – Creating & Launching an Instance Template | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Creating-Launching-an-Instance-Template/tree/main) | automating EC2 deployments using Launch Templates, security group configuration, and user data scripts to install Docker and deploy containers on startup |
 | 3         | ⚙️ AWS EC2 Lab – Using Auto Scaling Groups (ASG) | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Using-Auto-Scaling-Groups-ASG-/tree/main) | deploying and managing EC2 Auto Scaling Groups with Terraform launch templates, target tracking policies, and CPU-based horizontal scaling for stateless applications |
 | 4         | ⚖️ AWS EC2 Lab – Application Load Balancer (ALB) with Target Groups | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Application-Load-Balancer-ALB-with-Target-Groups/tree/main) | deploying and configuring Application Load Balancers with Terraform, path-based routing, and multiple target groups for private EC2 instances |
-| 5         | Coming soon… | 📂 Folder | e.g. creating EC2 instances using AWS CLI                |
-| 6         | Coming soon… | 📂 Folder | e.g. exploring the EC2 instance lifecycle                |
-| 7         | Coming soon… | 📂 Folder | e.g. creating AMIs via AWS Console                       |
-| 8         | Coming soon… | 📂 Folder | e.g. using EC2 User Data scripts for automation          |
-| 9         | Coming soon… | 📂 Folder | e.g. connecting to EC2 using SSH keys and console        |
-| 10        | Coming soon… | 📂 Folder | e.g. configuring Elastic (static) and dynamic IPs        |
-| 11        | Coming soon… | 📂 Folder | e.g. launching instances from custom images              |
+| 5         | 📊 AWS EC2 Lab – CloudWatch Agent, Metrics & Log Monitoring | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-CloudWatch-Agent-Metrics-Log-Monitoring/tree/main) | installing and configuring the CloudWatch Agent to collect custom EC2 metrics, stream NGINX logs, and visualize system performance using CloudWatch Metrics and Logs |
 
 ---
 
