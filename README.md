@@ -28,7 +28,7 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 ## 🗂️ Module Index
 
-### 🔹 Module 1: Getting Started with EC2
+### 🔹 Module 1: Basics of EC2
 
 | Challenge | Title        | Link      | Key Skill                                                           |
 | --------- | ------------ | --------- | ------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 
 ---
 
-### 🔹 Module 2: EC2 Instance Essentials
+### 🔹 Module 2: Advanced EC2 Topics
 
 | Challenge | Title        | Link      | Key Skill                                                |
 | --------- | ------------ | --------- | -------------------------------------------------------- |
@@ -52,31 +52,13 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 | 4         | ⚖️ AWS EC2 Lab – Application Load Balancer (ALB) with Target Groups | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Application-Load-Balancer-ALB-with-Target-Groups/tree/main) | deploying and configuring Application Load Balancers with Terraform, path-based routing, and multiple target groups for private EC2 instances |
 | 5         | 📊 AWS EC2 Lab – CloudWatch Agent, Metrics & Log Monitoring | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-CloudWatch-Agent-Metrics-Log-Monitoring/tree/main) | installing and configuring the CloudWatch Agent to collect custom EC2 metrics, stream NGINX logs, and visualize system performance using CloudWatch Metrics and Logs |
 
----
-
-### 🔹 Module 3: Advanced EC2 Topics
-
-| Challenge | Title        | Link      | Key Skill                                                               |
-| --------- | ------------ | --------- | ----------------------------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. attaching IAM roles to EC2 instances                               |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. accessing EC2 via CLI with IAM roles and access keys               |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. creating launch configurations and templates                       |
-| 4         | Coming soon… | 📂 Folder | e.g. configuring EC2 Auto Scaling Groups (ASG)                          |
-| 5         | Coming soon… | 📂 Folder | e.g. setting up Load Balancers and Target Groups                        |
-| 6         | Coming soon… | 📂 Folder | e.g. monitoring EC2 using CloudWatch                                    |
-| 7         | Coming soon… | 📂 Folder | e.g. configuring CloudWatch agents for metrics and logs                 |
-| 8         | Coming soon… | 📂 Folder | e.g. understanding EC2 pricing models (on-demand, reserved, spot, etc.) |
 
 ---
 
-### 🔹 Module 4: EC2 Real-Life Problems & Solutions
+### 🔹 Module 3: EC2 Real-Life Problems & Solutions
 
 | Challenge | Title        | Link      | Key Skill                                                       |
 | --------- | ------------ | --------- | --------------------------------------------------------------- |
-| 1         | Coming soon… | 📂 [Repo]() | e.g. designing a golden image pipeline                          |
+| 1         | 🔐 AWS EC2 Lab – Recover EC2 Instance When .pem Key Is Lost | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Recover-EC2-Instance-When-.pem-Key-Is-Lost/tree/main) | recovering SSH access to EC2 instances by injecting a new public key via User Data and IAM instance profile permissions after key loss |
 | 2         | Coming soon… | 📂 [Repo]() | e.g. using AWS Image Builder for automated AMI creation         |
 | 3         | Coming soon… | 📂 [Repo]() | e.g. immutable vs. non-immutable infrastructure                 |
-| 4         | Coming soon… | 📂 Folder | e.g. applying EC2 best practices (tagging, cost-saving, design) |
-| 5         | Coming soon… | 📂 Folder | e.g. managing disk partitions and EBS snapshots                 |
-| 6         | Coming soon… | 📂 Folder | e.g. recovering an EC2 instance after losing the `.pem` file    |
-| 7         | Coming soon… | 📂 Folder | e.g. managing EC2 via AWS Systems Manager (SSM)                 |
