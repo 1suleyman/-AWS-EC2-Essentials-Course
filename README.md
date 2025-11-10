@@ -60,5 +60,4 @@ By completing this course, I’ll gain practical experience and in-depth knowled
 | Challenge | Title        | Link      | Key Skill                                                       |
 | --------- | ------------ | --------- | --------------------------------------------------------------- |
 | 1         | 🔐 AWS EC2 Lab – Recover EC2 Instance When .pem Key Is Lost | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Recover-EC2-Instance-When-.pem-Key-Is-Lost/tree/main) | recovering SSH access to EC2 instances by injecting a new public key via User Data and IAM instance profile permissions after key loss |
-| 2         | Coming soon… | 📂 [Repo]() | e.g. using AWS Image Builder for automated AMI creation         |
-| 3         | Coming soon… | 📂 [Repo]() | e.g. immutable vs. non-immutable infrastructure                 |
+| 2         | 🧩 AWS EC2 Lab – Connect to EC2 Using Systems Manager (SSM) | 📂 [Repo](https://github.com/1suleyman/-AWS-EC2-Lab-Connect-to-EC2-Using-Systems-Manager-SSM-/tree/main) | securely managing and connecting to EC2 instances without SSH keys using AWS Systems Manager Session Manager and IAM roles |
